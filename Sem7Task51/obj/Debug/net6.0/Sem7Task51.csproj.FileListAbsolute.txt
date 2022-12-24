@@ -1,0 +1,15 @@
+C:\Users\ALN\Seminars\Sem7Task51\bin\Debug\net6.0\Sem7Task51.exe
+C:\Users\ALN\Seminars\Sem7Task51\bin\Debug\net6.0\Sem7Task51.deps.json
+C:\Users\ALN\Seminars\Sem7Task51\bin\Debug\net6.0\Sem7Task51.runtimeconfig.json
+C:\Users\ALN\Seminars\Sem7Task51\bin\Debug\net6.0\Sem7Task51.dll
+C:\Users\ALN\Seminars\Sem7Task51\bin\Debug\net6.0\Sem7Task51.pdb
+C:\Users\ALN\Seminars\Sem7Task51\obj\Debug\net6.0\Sem7Task51.csproj.AssemblyReference.cache
+C:\Users\ALN\Seminars\Sem7Task51\obj\Debug\net6.0\Sem7Task51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALN\Seminars\Sem7Task51\obj\Debug\net6.0\Sem7Task51.AssemblyInfoInputs.cache
+C:\Users\ALN\Seminars\Sem7Task51\obj\Debug\net6.0\Sem7Task51.AssemblyInfo.cs
+C:\Users\ALN\Seminars\Sem7Task51\obj\Debug\net6.0\Sem7Task51.csproj.CoreCompileInputs.cache
+C:\Users\ALN\Seminars\Sem7Task51\obj\Debug\net6.0\Sem7Task51.dll
+C:\Users\ALN\Seminars\Sem7Task51\obj\Debug\net6.0\refint\Sem7Task51.dll
+C:\Users\ALN\Seminars\Sem7Task51\obj\Debug\net6.0\Sem7Task51.pdb
+C:\Users\ALN\Seminars\Sem7Task51\obj\Debug\net6.0\Sem7Task51.genruntimeconfig.cache
+C:\Users\ALN\Seminars\Sem7Task51\obj\Debug\net6.0\ref\Sem7Task51.dll
