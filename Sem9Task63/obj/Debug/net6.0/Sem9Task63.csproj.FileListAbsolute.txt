@@ -1,0 +1,15 @@
+C:\Users\ALN\Seminars\Sem9Task63\bin\Debug\net6.0\Sem9Task63.exe
+C:\Users\ALN\Seminars\Sem9Task63\bin\Debug\net6.0\Sem9Task63.deps.json
+C:\Users\ALN\Seminars\Sem9Task63\bin\Debug\net6.0\Sem9Task63.runtimeconfig.json
+C:\Users\ALN\Seminars\Sem9Task63\bin\Debug\net6.0\Sem9Task63.dll
+C:\Users\ALN\Seminars\Sem9Task63\bin\Debug\net6.0\Sem9Task63.pdb
+C:\Users\ALN\Seminars\Sem9Task63\obj\Debug\net6.0\Sem9Task63.csproj.AssemblyReference.cache
+C:\Users\ALN\Seminars\Sem9Task63\obj\Debug\net6.0\Sem9Task63.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALN\Seminars\Sem9Task63\obj\Debug\net6.0\Sem9Task63.AssemblyInfoInputs.cache
+C:\Users\ALN\Seminars\Sem9Task63\obj\Debug\net6.0\Sem9Task63.AssemblyInfo.cs
+C:\Users\ALN\Seminars\Sem9Task63\obj\Debug\net6.0\Sem9Task63.csproj.CoreCompileInputs.cache
+C:\Users\ALN\Seminars\Sem9Task63\obj\Debug\net6.0\Sem9Task63.dll
+C:\Users\ALN\Seminars\Sem9Task63\obj\Debug\net6.0\refint\Sem9Task63.dll
+C:\Users\ALN\Seminars\Sem9Task63\obj\Debug\net6.0\Sem9Task63.pdb
+C:\Users\ALN\Seminars\Sem9Task63\obj\Debug\net6.0\Sem9Task63.genruntimeconfig.cache
+C:\Users\ALN\Seminars\Sem9Task63\obj\Debug\net6.0\ref\Sem9Task63.dll
