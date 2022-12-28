@@ -1,0 +1,15 @@
+C:\Users\ALN\Seminars\Sem8Task62\bin\Debug\net6.0\Sem8Task62.exe
+C:\Users\ALN\Seminars\Sem8Task62\bin\Debug\net6.0\Sem8Task62.deps.json
+C:\Users\ALN\Seminars\Sem8Task62\bin\Debug\net6.0\Sem8Task62.runtimeconfig.json
+C:\Users\ALN\Seminars\Sem8Task62\bin\Debug\net6.0\Sem8Task62.dll
+C:\Users\ALN\Seminars\Sem8Task62\bin\Debug\net6.0\Sem8Task62.pdb
+C:\Users\ALN\Seminars\Sem8Task62\obj\Debug\net6.0\Sem8Task62.csproj.AssemblyReference.cache
+C:\Users\ALN\Seminars\Sem8Task62\obj\Debug\net6.0\Sem8Task62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALN\Seminars\Sem8Task62\obj\Debug\net6.0\Sem8Task62.AssemblyInfoInputs.cache
+C:\Users\ALN\Seminars\Sem8Task62\obj\Debug\net6.0\Sem8Task62.AssemblyInfo.cs
+C:\Users\ALN\Seminars\Sem8Task62\obj\Debug\net6.0\Sem8Task62.csproj.CoreCompileInputs.cache
+C:\Users\ALN\Seminars\Sem8Task62\obj\Debug\net6.0\Sem8Task62.dll
+C:\Users\ALN\Seminars\Sem8Task62\obj\Debug\net6.0\refint\Sem8Task62.dll
+C:\Users\ALN\Seminars\Sem8Task62\obj\Debug\net6.0\Sem8Task62.pdb
+C:\Users\ALN\Seminars\Sem8Task62\obj\Debug\net6.0\Sem8Task62.genruntimeconfig.cache
+C:\Users\ALN\Seminars\Sem8Task62\obj\Debug\net6.0\ref\Sem8Task62.dll
